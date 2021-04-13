@@ -1,7 +1,13 @@
 # BERT v/s Word2Vec Simplest Example
 
-* [Click here](https://youtu.be/1W-sWmFQPZY)
-* Click on the image below
+## To view the video
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=1W-sWmFQPZY" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/1W-sWmFQPZY?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Scrape HTML tables easily with a Button Click using Python](http://img.youtube.com/vi/1W-sWmFQPZY/0.jpg)](http://www.youtube.com/watch?v=1W-sWmFQPZY)
 
